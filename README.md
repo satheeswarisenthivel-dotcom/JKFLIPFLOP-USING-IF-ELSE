@@ -45,7 +45,7 @@ endmodule
 ~~~
 
 
-developed
+developed by
 NAME:S.SATHEESWARI
 REG NO:25017493
 
